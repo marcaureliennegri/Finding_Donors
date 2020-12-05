@@ -13,7 +13,8 @@ You will also need to have software installed to run and execute an iPython Note
 We recommend students install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
 ## Code
-finding_donors.ipynb: The python file containing the machine learning analysis of the data census.csv: The data visuals.py: Functions to visualize the data
+finding_donors.ipynb: The python file containing the machine learning analysis of the data 
+census.csv: The data visuals.py: Functions to visualize the data
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
