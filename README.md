@@ -20,9 +20,11 @@ census.csv: The data visuals.py: Functions to visualize the data
 In a terminal or command window, navigate to the top-level project directory finding_donors/ (that contains this README) and run one of the following commands:
 
 ipython notebook finding_donors.ipynb
+
 or
 
 jupyter notebook finding_donors.ipynb
+
 This will open the iPython Notebook software and project file in your browser.
 
 ## Data
